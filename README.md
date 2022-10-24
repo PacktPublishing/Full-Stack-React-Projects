@@ -24,3 +24,7 @@ In order to maximize your learning experience while reading through the chapters
 * [React Projects [Video]](https://www.packtpub.com/web-development/react-projects-video?utm_source=github&utm_medium=repository&utm_campaign=9781786465504)
 
 * [React Native Cookbook - Second Edition](https://www.packtpub.com/application-development/react-native-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991926)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788835534">https://packt.link/free-ebook/9781788835534 </a> </p>
