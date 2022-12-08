@@ -45,7 +45,7 @@
     "compression": "^1.7.2",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "formidable": "^1.2.1",
     "gridfs-stream": "^1.1.1",
